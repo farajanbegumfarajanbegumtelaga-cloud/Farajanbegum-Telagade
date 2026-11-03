@@ -1,69 +1,88 @@
-##Hi there! 👋 I'm an Aspiring Microsoft Dynamics 365 CRM Developer
+# 👋 Hello, I'm an Aspiring Microsoft Dynamics 365 CRM Developer!
 
 Welcome to my GitHub profile!
 
-I'm currently undergoing training in Microsoft Dynamics 365 CRM and developing my skills in the Microsoft Power Platform.
+I'm currently undergoing training in **Microsoft Dynamics 365 CRM** and developing my skills in the **Microsoft Power Platform**. I am passionate about building business applications, customizing CRM solutions, and automating business processes.
 
-My primary interest is building business applications, customizing CRM solutions, and automating business processes.
+---
 
-🚀 About Me
+## 🚀 About Me
 
-- 🎯 Aspiring Microsoft Dynamics 365 CRM Developer
-- 📚 Currently learning Dynamics 365 CRM and Power Platform
-- 💻 Exploring Microsoft Dataverse, Power Apps and Power Automate
-- ⚙️ Interested in JavaScript customization and CRM plugins
-- 🌱 Passionate about learning new technologies and building practical solutions.
+- 🎯 **Career Focus:** Microsoft Dynamics 365 CRM & Power Platform Development
+- 📚 **Currently Learning:** Dynamics 365 CRM and Power Platform
+- 💻 **Exploring:** Microsoft Dataverse, Power Apps and Power Automate
+- ⚙️ **Technical Interests:** CRM Customization, JavaScript and Plugins
+- 🌱 **Goal:** To become a skilled Dynamics 365 CRM Developer.
 
-🛠️ Technical Skills
+---
 
-Microsoft Technologies
+## 🛠️ Technical Skills
 
+### Microsoft Technologies
 - Microsoft Dynamics 365 CRM
 - Microsoft Dataverse
-- Power Apps
-- Power Automate
+- Microsoft Power Apps
+- Microsoft Power Automate
 
-Programming Languages
-
+### Programming Languages
 - JavaScript
 - Python
 
-💼 My Projects
+---
 
-1. HyBus – Bus Booking Management System 🚍
+## 💼 My Projects
 
-Status: In Progress
+### 🚍 1. RouteGo – Bus Booking Management System
+**Status:** In Progress
 
-Developing a bus booking management system using Microsoft Dynamics 365 CRM and Power Platform.
+A bus booking management system being developed using Microsoft Dynamics 365 CRM and Power Platform.
 
-Current development areas:
+**Key Development Areas:**
+- Customer, Bus and Trip Management
+- Dataverse Tables and Relationships
+- Power Apps Custom Pages
+- Business Logic and Automation
+- JavaScript Customization and Plugin Development
 
-- Customer, bus and trip management
-- Dataverse tables and relationships
-- Power Apps custom pages
-- Business logic and automation
-- JavaScript customization and plugin development
+### 🌱 2. Plant Disease Diagnosis
+**Project Type:** Internship Project
 
-2. Plant Disease Diagnosis 🌱
+An internship project focused on identifying plant diseases using technology to support early disease detection and plant health monitoring.
 
-An academic project focused on identifying plant diseases using technology and supporting early disease detection.
+### 🚑 3. Geo-fencing Enabled V2I System for Emergency Vehicles Traffic Management
+**Project Type:** Academic Project
 
-3. Emergency Vehicle Signal Prioritization 🚑
+An intelligent traffic management project exploring geofencing and Vehicle-to-Infrastructure (V2I) communication to help prioritize emergency vehicles and improve traffic signal coordination.
 
-An academic project focused on intelligent traffic signal prioritization for emergency vehicles.
+### 🆘 4. SOS-Based Safety Device with Live Location Sharing
+**Project Type:** Innovation Project
 
-🎯 Career Interests
+A safety device concept designed to assist people during emergency situations.
 
-- Dynamics 365 CRM Developer
+**Proposed Features:**
+- Physical SOS Emergency Button
+- Live Location Sharing through SMS
+- Automatic Call Initiation to a Registered Emergency Contact
+- Automatic Call Answering within Approximately 5 Seconds
+
+---
+
+## 🎯 Career Interests
+
+- Microsoft Dynamics 365 CRM Developer
 - Power Platform Developer
 - CRM Technical Consultant
 - Dynamics 365 CRM Intern / Trainee
 
-🤝 Connect With Me
+---
 
-- LinkedIn: [Add your LinkedIn profile URL here]
-- GitHub: "My GitHub Profile" (https://github.com/)
+## 🤝 Connect With Me
+
+- 💼 **LinkedIn:** [My LinkedIn Profile]([YOUR_LINKEDIN_URL](https://www.linkedin.com/in/farajanbegum-telagade-32682933a/))
+- 🐙 **GitHub:** [My GitHub Profile]([YOUR_GITHUB_URL](https://github.com/Farajanbegum123))
 
 ---
 
-⭐ Thank you for visiting my profile! I'm always excited to learn, build and explore new opportunities in the Microsoft technology ecosystem.
+⭐ **Thank you for visiting my profile!**
+
+*Always eager to learn, innovate, collaborate and build meaningful technology solutions.*
