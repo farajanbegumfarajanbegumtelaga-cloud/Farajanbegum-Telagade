@@ -78,7 +78,7 @@ A safety device concept designed to assist people during emergency situations.
 
 ## 🤝 Connect With Me
 
-- 💼 **LinkedIn:** [My LinkedIn Profile]([YOUR_LINKEDIN_URL](https://www.linkedin.com/in/farajanbegum-telagade-32682933a/))
+- 💼 **LinkedIn:** [My LinkedIn Profile]([https://www.linkedin.com/in/farajanbegum-telagade-32682933a/])
 - 🐙 **GitHub:** [My GitHub Profile]([YOUR_GITHUB_URL](https://github.com/Farajanbegum123))
 
 ---
