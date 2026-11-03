@@ -55,7 +55,7 @@ An internship project focused on identifying plant diseases using technology to 
 An intelligent traffic management project exploring geofencing and Vehicle-to-Infrastructure (V2I) communication to help prioritize emergency vehicles and improve traffic signal coordination.
 
 ### 🆘 4. SOS-Based Safety Device with Live Location Sharing
-**Project Type:** Innovation Project
+**Project Type:** Academic Project
 
 A safety device concept designed to assist people during emergency situations.
 
